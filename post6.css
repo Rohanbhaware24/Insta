@@ -1,0 +1,127 @@
+
+#d1{
+    height: 600px;
+    width: 300px;
+    /* background-color: red; */
+    border: 2px solid black;
+    margin: auto;
+}
+#h3{
+    padding-left: 150px;
+}
+#h32{
+    padding-left: 10px;
+}
+#d2{
+    height: 50px;
+    width: 300px;
+    /* background-color: aqua; */
+    display: inline-flex;
+}
+#d3{
+    height: 80px;
+    width: 300px;
+    /* background-color: blue; */
+    display: inline-flex;
+}
+#c10{
+    height: 13px;
+    width: 13px;
+    border-radius: 50%;
+    border: 2px solid beige;
+    margin-left: 38px;
+    margin-top: 45px;
+    /* background-color: blue; */
+    background-image: url(plus.png);
+    background-size: cover;
+}
+#d4{
+    height: 370px;
+    width: 300px;
+    /* background-color: blueviolet; */
+}
+#d5{
+    margin-top: 20px;
+    height: 30px;
+    width: 300px;
+    /* background-color: yellow; */
+}
+#c5{
+    width: 22px;
+    height: 22px;
+    border-radius: 50px;
+    border: 2px solid black;
+    margin-left: 10px;
+    background-image: url("p1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+span{
+    padding-left: 30px;
+}
+#d6{
+    margin-top: 5px;
+    height: 320px;
+    width: 300px;
+    background-image: url("img.2.JPG");
+    /* background-repeat: no-repeat; */
+    /* background-attachment: scroll; */
+    /* min-height: 500%;*/
+     /* background-attachment: fixed;*/
+      background-position: center;
+      /* background-repeat:no-repeat ;*/
+       background-size: cover;
+       padding-bottom: 20px;
+}
+#d7{
+    /* background-color: blue; */
+    /* height: 10px; */
+    width: 290px;
+    display: inline-flex;
+    padding-left: 10px;
+    /* background-color: red; */
+}
+#l8{
+    padding-top: 7px;
+}
+.l1{
+    padding-top: 7px;
+    padding-left: 10px;
+}
+#l2{
+    padding-left: 170px;
+}
+#d8{
+    height: 25px;
+    width: 300px;
+    /* background-color: red; */
+    display: inline-flex;
+    padding-top: 5px;
+}
+#l3{
+    padding-left: 20px;
+}
+#l4{
+    padding-left: 35px;
+}
+#l5{
+    padding-left: 30px;
+}
+#l6{
+    padding-left: 40px;
+}
+#l7{
+    padding-left: 20px;
+}
+#c6{
+    margin-left: 40px;
+}
+#you{
+    padding-left: 15px;
+    font-size: small;
+    padding-bottom: 10px;
+}
+#p1{
+    padding-bottom: 10px;
+    padding-left: 15px;
+}
